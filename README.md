@@ -15,16 +15,16 @@ Weather Next Door allows users to change the weather depending on which weather 
 
 
 ## General Information
-This project is a fun and interactive project that allows users to have the power to change the weather based on their personal preference. I thought this would be an interesting and fun project to undertake.
+This project is a fun and interactive project that allows users to have the power to change the weather based on their personal preference. I thought this would be an interesting and fun project to undertake to broaden my knowledge and understanding in coding specifically Processing in Python.
 
 
 ## Technologies Used
-
+Processing (Python Mode)
 
 ## Features
 - The main house image with the placement of everything including the text and buttons
 - Rain button: was the first button I created
-- Creaing the lightning bolt shape
+- Creating the lightning bolt shape using createShape() and vertex()
 
 ## Screenshots
 
