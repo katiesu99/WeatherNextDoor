@@ -27,28 +27,31 @@ Processing (Python Mode)
 - Creating the lightning bolt shape using createShape() and vertex()
 
 ## Screenshots
+<img width="944" alt="Screenshot 2024-11-02 134526" src="https://github.com/user-attachments/assets/c3b036d2-a476-4ec9-8103-996cbabb723e">
 
+My main page with the house and weather buttons
 
 ## Setup
-To get started with the project all you need to do is click the play button in the Processing Python code provided. 
+To install this project, click on the attached file called WeatherNextDoor and open it. 
 
 ## Usage
-
+To see the project in motion, all you need to do is click the play button in the Processing Python code provided.
 
 ## Project Status
 Project is : Complete
 
 ## Room for Improvement
 While I am extremely proud and happy of the result I created, there is always room for improvement. Here are some:
-- More detailed elements e.g. house, trees etc.
+- More detailed elements e.g. house, car, trees etc. as well as adding more elements to make it less sparse
+- Instead of just the sky changing colour when a button is pressed, make everything else related like the state of the trees, car, house etc.
+  
+To do/add in the future:
 - Rain making ripples on the ground and snow piling up after a while
-
-To do:
-- Instead of just the sky changing colour when a button is rpessed, make everything else related like the state of the trees, house etc.
 - More weather buttons e.g. sunny, cloudy, hail, rainbow
   
 ## Acknowledgements
 This project was initially inspired by Waclaw Szpakowski and his artistic patterns using lines. 
+The Processing website of the basic examples was an extreme help during the entirety of my project.
 Many thanks to my friends who study code and helped me heaps: Benny and Carly.
 
 ## Contact
