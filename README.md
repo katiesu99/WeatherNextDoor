@@ -55,6 +55,8 @@ This project was initially inspired by Waclaw Szpakowski and his artistic patter
 The Processing website of the basic examples was an extreme help during the entirety of my project.
 Many thanks to my friends who study code and helped me heaps: Benny and Carly.
 
+For ReadMe: https://github.com/ritaly/README-cheatsheet/edit/master/README.md#setup 
+
 ## Contact
 Created by: @katiesu99. 
 Feel free to contact me at katie.j.su@student.uts.edu.au
