@@ -38,10 +38,11 @@ To install this project, click on the attached file called WeatherNextDoor and o
 To see the project in motion, all you need to do is click the play button in the Processing Python code provided.
 
 ## Project Status
-Project is : Complete
+Project is : In Progress
 
 ## Room for Improvement
 While I am extremely proud and happy of the result I created, there is always room for improvement. Here are some:
+- Find the error/problem with the lightning functions 
 - More detailed elements e.g. house, car, trees etc. as well as adding more elements to make it less sparse
 - Instead of just the sky changing colour when a button is pressed, make everything else related like the state of the trees, car, house etc.
   
