@@ -23,13 +23,13 @@ Processing (Python Mode)
 
 ## Features
 - The main house image with the placement of everything including the text and buttons
-- Rain button: was the first button I created
+- Rain button: this was the first button I created
 - Creating the lightning bolt shape using createShape() and vertex()
 
 ## Screenshots
 <img width="944" alt="Screenshot 2024-11-02 134526" src="https://github.com/user-attachments/assets/c3b036d2-a476-4ec9-8103-996cbabb723e">
 
-My main page with the house and weather buttons
+A still image of my main page with the house and weather buttons
 
 ## Setup
 To install this project, click on the attached file called WeatherNextDoor and open it. 
